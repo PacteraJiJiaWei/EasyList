@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'easy_list_config.dart';
-export 'easy_list_config.dart';
-import 'easy_list_refresh_footer.dart';
-import 'easy_list_refresh_header.dart';
+import 'package:easy_list/easy_list/easy_list_config.dart';
+export 'package:easy_list/easy_list/easy_list_config.dart';
+import 'package:easy_list/easy_list/easy_list_refresh_footer.dart';
+import 'package:easy_list/easy_list/easy_list_refresh_header.dart';
 
 /// 列表属性
 typedef EasyListRowCount = int Function(int section);

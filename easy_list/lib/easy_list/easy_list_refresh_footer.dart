@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'easy_list_config.dart';
-import 'easy_list_refresh_normal_footer.dart';
+import 'package:easy_list/easy_list/easy_list_config.dart';
+import 'package:easy_list/easy_list/easy_list_refresh_normal_footer.dart';
 
 typedef EasyListRefreshAnimationFooter = Widget Function(BuildContext context, double offset);
 

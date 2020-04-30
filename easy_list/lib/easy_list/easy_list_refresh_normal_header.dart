@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'easy_list_config.dart';
+import 'package:easy_list/easy_list/easy_list_config.dart';
 import 'dart:math';
 
 class EasyListRefreshNormalHeader extends StatefulWidget {

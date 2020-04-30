@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'easy_list.dart';
+import 'package:easy_list/easy_list/easy_list.dart';
 
 void main() => runApp(MyApp());
 
